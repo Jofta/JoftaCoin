@@ -1,4 +1,4 @@
-This is experimental cryptocurrency JoftaCoin (JFT). https://jofta.com
+This is experimental cryptocurrency JoftaCoin (JFT).
 
 ## Building JoftaCoin 
 
@@ -28,6 +28,5 @@ Dependencies:
 * cmake-3.11.1
 * boost 1.67.0
 
-How to build you can find here: https://www.jofta.com/index.php/2018/05/06/windows-10-clis-for-joftacoin/
 
 Good luck!
